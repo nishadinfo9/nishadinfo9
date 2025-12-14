@@ -17,20 +17,23 @@ I am a passionate Front-End Developer on a continuous coding journey, focused on
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend Skills
 
-* HTML5, CSS3, Tailwind CSS, DaisyUI
-* JavaScript (ES6+)
-* React.js, Redux Toolkit
-* Next.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/> Next.js &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28"/> Tailwind CSS &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="28"/> Redux
+</p>
 
-**Backend & Tools**
+### Tools & Backend (Working Knowledge)
 
-* Node.js, Express.js
-* MongoDB, Mongoose
-* Authentication (JWT, bcrypt)
-* Firebase, Appwrite
-* Git & GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/> MongoDB &nbsp;|&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Git & GitHub &nbsp;|&nbsp;
+  Firebase &nbsp;|&nbsp; Appwrite &nbsp;|&nbsp; Express.js
+</p>
 
 ---
 
@@ -83,7 +86,7 @@ A full-stack food marketplace application with authentication and real-world fea
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishadinfo9\&show_icons=true\&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishadinfo9)
+![GitHub Streak](https://streak-stats.demolab.com?user=nishadinfo9)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishadinfo9\&label=Profile%20views)
 
