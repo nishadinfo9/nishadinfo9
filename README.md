@@ -38,7 +38,6 @@ Currently, I am preparing for my first professional frontend role and working on
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32"/>
 </p>
@@ -46,8 +45,8 @@ Currently, I am preparing for my first professional frontend role and working on
 ### Backend & Tools (Working Knowledge)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
 </p>
 
 **Also familiar with:** Appwrite, Express.js, JWT Authentication
@@ -78,8 +77,8 @@ A full-stack food marketplace application with real-world authentication and bus
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishadinfo9&show_icons=true&hide_title=true" />
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=nishadinfo9&show_icons=true&hide_title=true" alt="Nishad's GitHub Stats" />
+<br/> 
   <img src="https://streak-stats.demolab.com?user=nishadinfo9" />
 </p>
 
