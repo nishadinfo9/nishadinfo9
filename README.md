@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&weight=700&lines=Hi%2C+I'm+Nishad+Hasan;Frontend+Developer+%7C+React+%26+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&weight=700&lines=Hi%2C+I'm+Nishad+Hasan;Frontend+Developer+%7C+Javascript+%26+React" />
 </p>
 
 
@@ -16,15 +16,16 @@ Currently, I am preparing for my first professional frontend role and working on
 ---
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🏗️ Working on a **tourism-based web application**  
-- 📚 Improving code quality, performance, and best practices  
+- 🌱 Learning Next.js and modern React patterns
+- 🏗️ Developing an AI-powered feedback application
+- 📚 Improving code quality, performance, and best practices
+- 💡 Exploring real-world authentication systems and scalable projects
 
 ---
 
 ## 🧠 About Me
-- 💼 Actively preparing for a **Frontend Developer role**
-- 🌍 Based in **Bangladesh** | Open to **remote opportunities**
+- 💼 Actively preparing for a Frontend Developer role
+- 🌍 Based in **Bangladesh | Open to remote opportunities
 - 🧩 Strong problem-solving mindset with a focus on clean code
 - 🚀 Interested in real-world systems and scalable products
 
@@ -68,7 +69,7 @@ A full-stack food marketplace application with real-world authentication and bus
 ---
 
 ## 🎯 Goals
-- ✅ Secure my **first Frontend Developer role**
+- ✅ Secure my first Frontend Developer role
 - 🚀 Build scalable, production-ready applications
 - 💡 Launch my own **startup** in the future
 
@@ -85,8 +86,4 @@ A full-stack food marketplace application with real-world authentication and bus
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/iamnishadhasan  
-- 📧 Email: nishad.dev@gmail.com  
-
----
-
-> *“My code speaks through real-world projects.”*
+- 📧 Email: mdnishadali03@gmail.com 
