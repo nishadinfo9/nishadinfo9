@@ -93,5 +93,5 @@ A full-stack food marketplace application with real-world authentication and bus
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/iamnishadhasan  
-- 📧 Email: mdnishadali03@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/me-nishadhasan
+- 📧 Email: info.nishadhasan@gmail.com
