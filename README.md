@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&weight=700&lines=Hi%2C+I'm+Nishad+Hasan;Frontend+Developer+%7C+React+%26+Tailwind+CSS" />
 </p>
->
+
 
 
 
